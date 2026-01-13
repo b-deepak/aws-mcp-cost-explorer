@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "@aws-sdk/client-cost-explorer": "^3.700.0",
-    "@modelcontextprotocol/sdk": "^1.0.4",
+    "@modelcontextprotocol/sdk": "^1.25.2",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
